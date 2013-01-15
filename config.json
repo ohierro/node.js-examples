@@ -1,0 +1,8 @@
+{	"local": {		
+		"port": "8124"		
+	},
+	"remote": {
+		"host": "solaris-produccion",
+		"port": "7777"		
+	}
+}
